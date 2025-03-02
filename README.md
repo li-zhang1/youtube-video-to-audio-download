@@ -2,6 +2,8 @@
 
 **Set up local Environment**
 ```
+brew install ffmpeg
+
 git clone https://github.com/li-zhang1/youtube-video-to-audio-download.git
 
 python3 --version
